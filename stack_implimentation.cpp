@@ -35,7 +35,6 @@ int main(){
     st.push(12);
     st.push(16);
 
-    st.pop();
     // print stack
     while( !st.empty() ){
         cout << st.top() << " ";
